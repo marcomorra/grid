@@ -1,0 +1,24 @@
+{
+  "name": "ba-starter-flex",
+  "version": "1.0.0",
+  "description": "simple starter for web development with scss preprocessors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcomorra/grid.git"
+  },
+  "author": "Alexey Yemelyanenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcomorra/grid/issues"
+  },
+  "homepage": "https://github.com/marcomorra/grid#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.13.0"
+  }
+}
